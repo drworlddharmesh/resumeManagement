@@ -1,0 +1,19 @@
+.profile-image {
+     width: unset; 
+     float: unset; 
+}
+
+.profile-image img {
+    width: 120px;
+    height: auto;
+}
+
+.rf-logo {
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.simple-checkbox {
+    font-weight: unset !important;
+}

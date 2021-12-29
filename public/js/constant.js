@@ -1,0 +1,16 @@
+var adminMessage = {
+	msgEmailRequired             : 'Email is required.',
+    msgValidEmail                : 'Please enter a valid email address.',
+    msgPasswordRequired          : 'Password is required.',
+    msgHealthConditionRequired   : 'Health condition is required.',
+    msgCheckExistHealthCondition : 'This health condition is already exist.',
+    msgIncorrectEmail            : 'Incorrect email.',
+    msgCheckOtp                  : 'Incorrect OTP. Please try again!.',
+    msgNewPasswordRequired       : 'New password is required.',
+    msgConfirmPasswordRequired   : 'Confirm password is required.',
+    msgMatchPassword             : 'New password and confirm password does not match.',
+    msgOldPasswordRequired       : 'Old password is required.',
+    msgIncorrectOldPassword      : 'Incorrect old password.',
+    msgExerciseRequired          : 'Exercise is required.',
+    msgExistExercise             : 'This exercise is already exist.',
+};
